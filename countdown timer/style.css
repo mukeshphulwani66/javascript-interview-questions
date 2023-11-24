@@ -1,0 +1,24 @@
+#countdown,h1 {
+    font-size: 24px;
+    text-align: center;
+    margin: 20px;
+}
+
+
+#countdown .countdown-timer {
+    font-weight: bold;
+    color: #333;
+    font-size: 36px; /* Increase the font size */
+}
+
+#countdown .countdown-label {
+    color: #777;
+    font-weight: normal;
+    margin: 0 5px;
+}
+
+#countdown .happy-new-year {
+    font-size: 36px; /* Increase the font size */
+    color: #f00;
+    font-weight: bold;
+}
