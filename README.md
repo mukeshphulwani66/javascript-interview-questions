@@ -34,3 +34,7 @@ This repository contains all interview questions for javascript
 - **Event loop in javascript in 7 mins:** [Understand Event loop in javascript in 7 mins with a video.](https://youtu.be/fBXlJjr5VQ4)
 
 - **Countdown Timer in javascript:** [Understand Countdown Timer in javascript with a video.](https://youtu.be/SiAGWuv4C9c)
+
+- **Infinite currying and deep clone object:** [Understand Infinite currying and deep clone object in javascript with a video.](https://youtu.be/OLJFSgAvAkk)
+
+- **Deep compare 2 object:** [Understand deep compare 2 object in javascript with a video.](https://youtu.be/K15LoTIW02A)
