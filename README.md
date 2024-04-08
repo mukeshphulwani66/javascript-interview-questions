@@ -38,3 +38,13 @@ This repository contains all interview questions for javascript
 - **Infinite currying and deep clone object:** [Understand Infinite currying and deep clone object in javascript with a video.](https://youtu.be/OLJFSgAvAkk)
 
 - **Deep compare 2 object:** [Understand deep compare 2 object in javascript with a video.](https://youtu.be/K15LoTIW02A)
+
+- **Polyfill for map filter reduce:** [Understand polyfill for array methods javascript with a video.](https://youtu.be/OV70u-E1C30)
+
+- **Polyfill for map filter reduce:** [Understand polyfill for array methods javascript with a video.](https://youtu.be/OV70u-E1C30)
+
+- **Polyfill for call apply bind:** [Understand polyfill for function methods javascript with a video.](https://youtu.be/rr9UUi4epCs)
+
+- **Polyfill for promise:** [Understand how to create your own implementation of promise with a video.](https://youtu.be/PL2D7u64M84)
+
+- **Polyfill for promise methods:** [Understand how to create your own implementation of promise static methods all, allSettled, race & any with a video.](https://youtu.be/tA635SlT52I)
