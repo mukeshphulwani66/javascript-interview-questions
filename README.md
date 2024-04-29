@@ -9,6 +9,8 @@ This repository contains all interview questions for javascript
 
 - **Arrow vs Normal Function:** [Explore arrow vs normal function with a video.](https://youtu.be/EA7DOFFky1s)
 
+- **Hoisting:** [hoisting interview questions](https://youtu.be/qE47fTlX59M)
+
 - **Call apply bind method:** [Explore Call apply bind method with a video.](https://youtu.be/P4T5JpyOONo)
 
 - **Prototype and __proto__ :** [Understand Prototype with a video.](https://youtu.be/ElXwmGrn1_A)
